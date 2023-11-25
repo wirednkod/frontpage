@@ -29,7 +29,7 @@ jobs:
       - run: yarn install
       - run: yarn build
       - name: Build
-        run: yarn build:pages
+        run: yarn build
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
