@@ -5,10 +5,7 @@ import { SimpleEditor } from "../../../lib/SimpleEditor";
 import { Demo } from "../../../lib/Demo";
 import { Button } from "@polkadot-cloud/react/buttons/Button";
 import { useOverlay } from "@polkadot-cloud/react/overlay/OverlayProvider/useOverlay";
-import {
-  Overlays,
-  useActiveAccounts,
-} from "@polkadot-cloud/recipes/Connect";
+import { Overlays, useActiveAccounts } from "@polkadot-cloud/recipes/Connect";
 
 export const ModalConnect = () => {
   const codeEntry = `

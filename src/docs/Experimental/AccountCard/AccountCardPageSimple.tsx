@@ -1,10 +1,7 @@
 /* @license Copyright 2023 @polkadot-cloud/app authors & contributors
 SPDX-License-Identifier: GPL-3.0-only */
 
-import {
-  AccountCard,
-  IconProps,
-} from "@polkadot-cloud/recipes/AccountCard";
+import { AccountCard, IconProps } from "@polkadot-cloud/recipes/AccountCard";
 import { SimpleEditor } from "../../lib/SimpleEditor";
 import { Switch } from "@polkadot-cloud/react/base/inputs/Switch";
 import { Demo } from "../../lib/Demo";

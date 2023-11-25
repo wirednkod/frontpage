@@ -12,10 +12,7 @@ import {
   connectInfo,
   ConnectConfigProvider,
 } from "@polkadot-cloud/recipes/Connect";
-import type {
-  ConnectType,
-  DappInfo,
-} from "@polkadot-cloud/recipes/Connect";
+import type { ConnectType, DappInfo } from "@polkadot-cloud/recipes/Connect";
 import { ModalConnectWalletSettings } from "./ModalConnectWalletSettings";
 
 const walletSettings: ConnectType = {
