@@ -1,4 +1,4 @@
-/* @license Copyright 2023 @polkadot-cloud/app authors & contributors
+/* @license Copyright 2023 @polkadot-cloud/frontpage authors & contributors
 SPDX-License-Identifier: GPL-3.0-only */
 
 import { Edit } from "../../../lib/Edit";
@@ -12,10 +12,7 @@ import {
   connectInfo,
   ConnectConfigProvider,
 } from "@polkadot-cloud/recipes/Connect";
-import type {
-  ConnectType,
-  DappInfo,
-} from "@polkadot-cloud/recipes/Connect";
+import type { ConnectType, DappInfo } from "@polkadot-cloud/recipes/Connect";
 import { ModalConnectWalletSettings } from "./ModalConnectWalletSettings";
 
 const walletSettings: ConnectType = {
