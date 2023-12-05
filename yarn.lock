@@ -391,11 +391,6 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.55.0.tgz#b721d52060f369aa259cf97392403cb9ce892ec6"
   integrity sha512-qQfo2mxH5yVom1kacMtZZJFVdW+E70mqHMJvVg6WTLo+VBuQJ4TojZlfWBjK0ve5BdEeNAVxOsl/nvNMpJOaJA==
 
-"@fortawesome/fontawesome-common-types@6.4.2":
-  version "6.4.2"
-  resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-6.4.2.tgz#1766039cad33f8ad87f9467b98e0d18fbc8f01c5"
-  integrity sha512-1DgP7f+XQIJbLFCTX1V2QnxVmpLdKdzzo2k8EmvDOePfchaIGQ9eCHj2up3/jNEbZuBqel5OxiaOJf37TWauRA==
-
 "@fortawesome/fontawesome-common-types@6.5.1":
   version "6.5.1"
   resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-6.5.1.tgz#fdb1ec4952b689f5f7aa0bffe46180bb35490032"
@@ -408,26 +403,26 @@
   dependencies:
     "@fortawesome/fontawesome-common-types" "6.5.1"
 
-"@fortawesome/free-brands-svg-icons@^6.4.2":
-  version "6.4.2"
-  resolved "https://registry.yarnpkg.com/@fortawesome/free-brands-svg-icons/-/free-brands-svg-icons-6.4.2.tgz#9b8e78066ea6dd563da5dfa686615791d0f7cc71"
-  integrity sha512-LKOwJX0I7+mR/cvvf6qIiqcERbdnY+24zgpUSouySml+5w8B4BJOx8EhDR/FTKAu06W12fmUIcv6lzPSwYKGGg==
+"@fortawesome/free-brands-svg-icons@^6.4.2", "@fortawesome/free-brands-svg-icons@^6.5.1":
+  version "6.5.1"
+  resolved "https://registry.yarnpkg.com/@fortawesome/free-brands-svg-icons/-/free-brands-svg-icons-6.5.1.tgz#e948cc02404277cb8ad40fe3573ca75f2830e876"
+  integrity sha512-093l7DAkx0aEtBq66Sf19MgoZewv1zeY9/4C7vSKPO4qMwEsW/2VYTUTpBtLwfb9T2R73tXaRDPmE4UqLCYHfg==
   dependencies:
-    "@fortawesome/fontawesome-common-types" "6.4.2"
+    "@fortawesome/fontawesome-common-types" "6.5.1"
 
-"@fortawesome/free-regular-svg-icons@^6.4.2":
-  version "6.4.2"
-  resolved "https://registry.yarnpkg.com/@fortawesome/free-regular-svg-icons/-/free-regular-svg-icons-6.4.2.tgz#aee79ed76ce5dd04931352f9d83700761b8b1b25"
-  integrity sha512-0+sIUWnkgTVVXVAPQmW4vxb9ZTHv0WstOa3rBx9iPxrrrDH6bNLsDYuwXF9b6fGm+iR7DKQvQshUH/FJm3ed9Q==
+"@fortawesome/free-regular-svg-icons@^6.4.2", "@fortawesome/free-regular-svg-icons@^6.5.1":
+  version "6.5.1"
+  resolved "https://registry.yarnpkg.com/@fortawesome/free-regular-svg-icons/-/free-regular-svg-icons-6.5.1.tgz#c98a91d2c9137ed54a7aa2362a916f46503e0627"
+  integrity sha512-m6ShXn+wvqEU69wSP84coxLbNl7sGVZb+Ca+XZq6k30SzuP3X4TfPqtycgUh9ASwlNh5OfQCd8pDIWxl+O+LlQ==
   dependencies:
-    "@fortawesome/fontawesome-common-types" "6.4.2"
+    "@fortawesome/fontawesome-common-types" "6.5.1"
 
-"@fortawesome/free-solid-svg-icons@^6.4.2":
-  version "6.4.2"
-  resolved "https://registry.yarnpkg.com/@fortawesome/free-solid-svg-icons/-/free-solid-svg-icons-6.4.2.tgz#33a02c4cb6aa28abea7bc082a9626b7922099df4"
-  integrity sha512-sYwXurXUEQS32fZz9hVCUUv/xu49PEJEyUOsA51l6PU/qVgfbTb2glsTEaJngVVT8VqBATRIdh7XVgV1JF1LkA==
+"@fortawesome/free-solid-svg-icons@^6.4.2", "@fortawesome/free-solid-svg-icons@^6.5.1":
+  version "6.5.1"
+  resolved "https://registry.yarnpkg.com/@fortawesome/free-solid-svg-icons/-/free-solid-svg-icons-6.5.1.tgz#737b8d787debe88b400ab7528f47be333031274a"
+  integrity sha512-S1PPfU3mIJa59biTtXJz1oI0+KAXW6bkAb31XKhxdxtuXDiUIFsih4JR1v5BbxY7hVHsD1RKq+jRkVRaf773NQ==
   dependencies:
-    "@fortawesome/fontawesome-common-types" "6.4.2"
+    "@fortawesome/fontawesome-common-types" "6.5.1"
 
 "@fortawesome/react-fontawesome@^0.2.0":
   version "0.2.0"
@@ -582,7 +577,7 @@
   resolved "https://registry.yarnpkg.com/@polkadot-cloud/core/-/core-1.0.49.tgz#3e2cc218225cb56c3eb330b660e13309be84aed6"
   integrity sha512-aJpkLKz2zLa0UQqOUcBlTzQwSho9TNAM5ggnDMYdr8DrYAD2DRjZKgpy6aBIHTEDbKBcbmLOLj20ECKZ2wB/AA==
 
-"@polkadot-cloud/react@^0.1.134", "@polkadot-cloud/react@^0.1.137":
+"@polkadot-cloud/react@^0.1.137":
   version "0.1.137"
   resolved "https://registry.yarnpkg.com/@polkadot-cloud/react/-/react-0.1.137.tgz#fc723f687829ee191981a522d1dba25e6f5f4d5c"
   integrity sha512-O8d4KHtWFXxyvna7mZhTAHSKQvQ8eLMwbgNJ0ChaLs3iyxTLyIi8sjl/+11X4JTroBhvgSlQJATjjmO8iX7nQw==
@@ -603,29 +598,29 @@
     "@polkadot/util-crypto" "^12.5.1"
     framer-motion "^10.16.5"
 
-"@polkadot-cloud/recipes@^0.0.5":
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/@polkadot-cloud/recipes/-/recipes-0.0.5.tgz#fa623f05bf03c1705e9ff128ab4fa0c97cc9d83e"
-  integrity sha512-VKjADgkq16siFWwGU5olqGvdk5NuSQTbTjK2KCKFL4DegVVDd+QqQoQVedCvQnVZwoPIdVo+n008LC9H8cmJmA==
+"@polkadot-cloud/recipes@^0.0.7":
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/@polkadot-cloud/recipes/-/recipes-0.0.7.tgz#b52f4b37eaa920bac46b957579e2f9d84807b343"
+  integrity sha512-pELLbbqSguApliRzS0WAIsH08p81eQodkKs6Mam+dVF0qswhSAkDKlD+KzTNuW72nixvLIUoOtM5vkkZ4SNcAQ==
   dependencies:
     "@chainsafe/metamask-polkadot-adapter" "^0.6.0"
     "@chainsafe/metamask-polkadot-types" "^0.6.0"
-    "@fortawesome/fontawesome-svg-core" "^6.4.2"
-    "@fortawesome/free-brands-svg-icons" "^6.4.2"
-    "@fortawesome/free-regular-svg-icons" "^6.4.2"
-    "@fortawesome/free-solid-svg-icons" "^6.4.2"
+    "@fortawesome/fontawesome-svg-core" "^6.5.1"
+    "@fortawesome/free-brands-svg-icons" "^6.5.1"
+    "@fortawesome/free-regular-svg-icons" "^6.5.1"
+    "@fortawesome/free-solid-svg-icons" "^6.5.1"
     "@fortawesome/react-fontawesome" "^0.2.0"
     "@ledgerhq/hw-transport-webhid" "^6.27.20"
     "@polkadot-cloud/assets" "0.1.35"
     "@polkadot-cloud/core" "^1.0.48"
-    "@polkadot-cloud/react" "^0.1.134"
+    "@polkadot-cloud/react" "^0.1.137"
     "@polkadot-cloud/utils" "^0.0.25"
     "@polkadot/keyring" "^12.6.1"
     "@polkadot/util" "^12.5.1"
     "@polkadot/util-crypto" "^12.5.1"
     "@zondax/ledger-substrate" "^0.41.3"
     buffer "^6.0.3"
-    framer-motion "^10.16.5"
+    framer-motion "^10.16.11"
     qrcode-generator "^1.4.4"
     react "^18.2.0"
     react-dom "^18.2.0"
@@ -2822,7 +2817,7 @@ formdata-polyfill@^4.0.10:
   dependencies:
     fetch-blob "^3.1.2"
 
-framer-motion@^10.16.12, framer-motion@^10.16.5:
+framer-motion@^10.16.11, framer-motion@^10.16.12, framer-motion@^10.16.5:
   version "10.16.12"
   resolved "https://registry.yarnpkg.com/framer-motion/-/framer-motion-10.16.12.tgz#8aca3ffa4801953dd873de422a3c1f78b2aa7bfa"
   integrity sha512-w7Yzx0OzQ5Uh6uNkxaX+4TuAPuOKz3haSbjmHpdrqDpGuCJCpq6YP9Dy7JJWdZ6mJjndrg3Ao3vUwDajKNikCA==
