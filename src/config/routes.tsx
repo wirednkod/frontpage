@@ -22,8 +22,8 @@ import { Textfield } from "../docs/Experimental/Textfield";
 import { Overview } from "../docs/GettingStarted/Overview";
 import { Installation } from "../docs/GettingStarted/Installation";
 import { UsingThemes } from "../docs/GettingStarted/UsingThemes";
-import { ExtensionsProvider } from "../docs/Experimental/Connect/ExtensionsProvider";
-import { ExtensionAccountsProvider } from "../docs/Experimental/Connect/ExtensionAccountsProvider";
+import { ExtensionsProvider } from "../docs/Components/Connect/ExtensionsProvider";
+import { ExtensionAccountsProvider } from "../docs/Components/Connect/ExtensionAccountsProvider";
 
 type Routes = {
   name: string;

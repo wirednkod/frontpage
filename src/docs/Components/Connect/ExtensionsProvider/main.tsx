@@ -74,7 +74,7 @@ export const Doc = ({ folder, npm }: DocProps) => {
           work.
         </p>
       </Note>
-      <SimpleEditor code={code} standalone />;
+      <SimpleEditor code={code} standalone />
       <hr />
       <H3 id="extension-syncing">Extension Syncing</H3>
       <p>
