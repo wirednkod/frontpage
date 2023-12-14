@@ -87,7 +87,7 @@ export const Doc = ({ folder, npm }: DocProps) => {
           work;
         </p>
       </Note>
-      <SimpleEditor code={code} standalone />;
+      <SimpleEditor code={code} standalone />
       <hr />
       <H3 id="providers-setup">Providers Setup</H3>
       <p>
