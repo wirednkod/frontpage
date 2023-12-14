@@ -188,7 +188,7 @@ export const routes: Routes = [
   {
     path: "/",
     name: "Home",
-    element: <Overview />, // Until we have a landing page
+    element: <Overview />,
   },
   ...gettingStartedRoutes,
   ...assetsRoutes,
