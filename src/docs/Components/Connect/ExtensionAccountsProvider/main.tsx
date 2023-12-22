@@ -183,15 +183,6 @@ export const Doc = ({ folder, npm }: DocProps) => {
         Signals whether extensions are still being connected to and subscribed
         to. A value of <code>true</code> means that the process is complete.
       </p>
-      <H3 id="forgetAccounts">forgetAccounts</H3>
-      <div className="params inline">
-        <p>(accounts: string[]): void</p>
-      </div>
-      <p>
-        Call this function to forget an array of accounts that have been
-        connected to. This effectively removes them from the provider state, and
-        unsubscribes from them.
-      </p>
     </>
   );
 };
