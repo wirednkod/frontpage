@@ -9,7 +9,6 @@ import { valEmpty } from "@polkadot-cloud/react/utils";
 import "@polkadot-cloud/core/accent/polkadot-relay.css";
 import "@polkadot-cloud/core/accent/kusama-relay.css";
 import "@polkadot-cloud/core/accent/westend-relay.css";
-import "@polkadot-cloud/core/accent/xcm.css";
 import "@polkadot-cloud/core/theme/default/index.css";
 
 import { DemoProps } from "./types";
@@ -28,7 +27,6 @@ export const Demo = ({
     ["Polkadot", "polkadot-relay"],
     ["Kusama", "kusama-relay"],
     ["Westend", "westend-relay"],
-    ["XCM", "xcm"],
   ];
 
   return (
