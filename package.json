@@ -41,7 +41,7 @@
     "@polkadot-cloud/react": "^0.1.147",
     "@polkadot-cloud/recipes": "^0.0.10",
     "@polkadot-cloud/utils": "^0.0.25",
-    "@polkadot/keyring": "^12.6.1",
+    "@polkadot/keyring": "^12.6.2",
     "@polkadot/util": "^12.6.2",
     "@types/react": "^18.2.46",
     "bignumber.js": "^9.1.2",
