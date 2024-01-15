@@ -1,4 +1,4 @@
-/* @license Copyright 2023 @polkadot-cloud/frontpage authors & contributors
+/* @license Copyright 2024 @polkadot-cloud/frontpage authors & contributors
 SPDX-License-Identifier: GPL-3.0-only */
 
 import { useState } from "react";

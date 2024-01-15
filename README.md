@@ -2,5 +2,5 @@
 
 # Polkadot Cloud Front Page
 
-<b>Polkadot Cloud</b> is a library and platform for developing and publishing assets for Polkadot dApps.
+<b>Polkadot Cloud</b> is a library and platform for developing and publishing Polkadot development assets.
 
