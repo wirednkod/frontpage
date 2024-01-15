@@ -42,7 +42,7 @@ export const Doc = ({ folder, npm }: DocProps) => {
       />
       <p>
         <a
-          href="https://github.com/polkadot-cloud/frontpage/blob/main/packages/cloud-react/lib/connect/ExtensionAccountsProvider/index.tsx"
+          href="https://github.com/polkadot-cloud/library/blob/main/packages/cloud-react/lib/connect/ExtensionAccountsProvider/index.tsx"
           target="_blank"
           rel="noreferrer"
         >
