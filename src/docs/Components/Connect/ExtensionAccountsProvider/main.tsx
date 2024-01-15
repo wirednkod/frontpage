@@ -1,4 +1,4 @@
-/* @license Copyright 2023 @polkadot-cloud/frontpage authors & contributors
+/* @license Copyright 2024 @polkadot-cloud/frontpage authors & contributors
 SPDX-License-Identifier: GPL-3.0-only */
 
 import { Edit } from "../../../lib/Edit";
@@ -42,7 +42,7 @@ export const Doc = ({ folder, npm }: DocProps) => {
       />
       <p>
         <a
-          href="https://github.com/polkadot-cloud/frontpage/blob/main/packages/cloud-react/lib/connect/ExtensionAccountsProvider/index.tsx"
+          href="https://github.com/polkadot-cloud/library/blob/main/packages/cloud-react/lib/connect/ExtensionAccountsProvider/index.tsx"
           target="_blank"
           rel="noreferrer"
         >

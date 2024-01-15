@@ -1,4 +1,4 @@
-/* @license Copyright 2023 @polkadot-cloud/frontpage authors & contributors
+/* @license Copyright 2024 @polkadot-cloud/frontpage authors & contributors
 SPDX-License-Identifier: GPL-3.0-only */
 
 import { Edit } from "../../lib/Edit";
@@ -23,7 +23,7 @@ export const Doc = ({ folder, npm }: DocProps) => {
       />
       <p>
         <a
-          href="https://github.com/polkadot-cloud/frontpage/blob/main/packages/cloud-react/lib/icons/Polkicon/index.tsx"
+          href="https://github.com/polkadot-cloud/library/blob/main/packages/cloud-react/lib/icons/Polkicon/index.tsx"
           target="_blank"
           rel="noreferrer"
         >
@@ -41,7 +41,7 @@ export const Doc = ({ folder, npm }: DocProps) => {
           the <code>Polkicon</code> component. To add support to other networks,
           contributors are welcome to{" "}
           <a
-            href="https://github.com/polkadot-cloud/frontpage/pulls"
+            href="https://github.com/polkadot-cloud/library/pulls"
             target="_blank"
             rel="noreferrer"
           >

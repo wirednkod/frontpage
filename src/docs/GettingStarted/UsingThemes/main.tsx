@@ -1,4 +1,4 @@
-/* @license Copyright 2023 @polkadot-cloud/frontpage authors & contributors
+/* @license Copyright 2024 @polkadot-cloud/frontpage authors & contributors
 SPDX-License-Identifier: GPL-3.0-only */
 
 import { Edit } from "../../lib/Edit";
@@ -48,7 +48,7 @@ export const Doc = ({ folder }: DocProps) => {
           Kusama, and a few other identities.
           <br />
           <a
-            href="https://github.com/polkadot-cloud/frontpage/tree/main/packages/cloud-core/lib/accent"
+            href="https://github.com/polkadot-cloud/library/tree/main/packages/cloud-core/lib/accent"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -65,7 +65,7 @@ export const Doc = ({ folder }: DocProps) => {
           bundle their preferred fonts if developers wish to use them.
           <br />
           <a
-            href="https://github.com/polkadot-cloud/frontpage/tree/main/packages/cloud-core/lib/theme"
+            href="https://github.com/polkadot-cloud/library/tree/main/packages/cloud-core/lib/theme"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -129,7 +129,7 @@ export const Doc = ({ folder }: DocProps) => {
           If you don't see a accent or theme that suits your needs, you can
           create your own and{" "}
           <a
-            href="https://github.com/polkadot-cloud/frontpage/pulls"
+            href="https://github.com/polkadot-cloud/library/pulls"
             target="_blank"
             rel="noreferrer"
           >
