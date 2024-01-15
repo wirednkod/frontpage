@@ -49,7 +49,7 @@ export const Header = () => {
           Dark
         </button>
         <a
-          href="https://github.com/polkadot-cloud/frontpage"
+          href="https://github.com/polkadot-cloud/library"
           target="_blank"
           rel="noreferrer"
         >
