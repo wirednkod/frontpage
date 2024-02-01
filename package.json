@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
-    "@ledgerhq/hw-transport-webhid": "^6.28.2",
+    "@ledgerhq/hw-transport-webhid": "^6.28.3",
     "@polkadot-cloud/assets": "^0.1.35",
     "@polkadot-cloud/core": "^1.2.4",
     "@polkadot-cloud/react": "^0.1.147",
