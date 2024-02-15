@@ -28,7 +28,6 @@ SPDX-License-Identifier: GPL-3.0-only */
   --accent-color-secondary: var(--accent-color-secondary-light);
   --accent-color-transparent: var(--accent-color-transparent-light);
   --accent-color-pending: var(--accent-color-pending-light);
-  
 }
 
 /* dark theme colors */
@@ -45,5 +44,4 @@ SPDX-License-Identifier: GPL-3.0-only */
   --accent-color-secondary: var(--accent-color-secondary-dark);
   --accent-color-transparent: var(--accent-color-transparent-dark);
   --accent-color-pending: var(--accent-color-pending-dark);
-  
 }
