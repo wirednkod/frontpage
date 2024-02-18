@@ -2,7 +2,6 @@
 SPDX-License-Identifier: GPL-3.0-only */
 import { ReactNode } from "react";
 
-import { Buttons } from "../docs/Components/Buttons";
 import { Loaders } from "../docs/Experimental/Loaders";
 import { Charts } from "../docs/Components/Charts";
 import { Polkicon } from "../docs/Components/Polkicon";
@@ -116,11 +115,6 @@ const componentsLayoutRoutes = [
 
 // Input Components
 const componentsInputRoutes = [
-  {
-    path: "buttons",
-    name: "Buttons",
-    element: <Buttons />,
-  },
   {
     path: "switch",
     name: "Switch",
@@ -243,10 +237,6 @@ export const routeCategories: RouteCategories = [
       },
       {
         paths: ["charts"],
-      },
-      {
-        heading: "Inputs",
-        paths: ["buttons"],
       },
     ],
   },
