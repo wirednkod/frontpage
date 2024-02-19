@@ -3,7 +3,6 @@ SPDX-License-Identifier: GPL-3.0-only */
 import { ReactNode } from "react";
 
 import { Loaders } from "../docs/Experimental/Loaders";
-import { Charts } from "../docs/Components/Charts";
 import { Polkicon } from "../docs/Components/Polkicon";
 import { Extensions } from "../docs/Assets/Extensions";
 import { Validators } from "../docs/Assets/Validators";
@@ -171,11 +170,6 @@ const componentsRoutes = [
     name: "Loaders",
     element: <Loaders />,
   },
-  {
-    path: "charts",
-    name: "Charts",
-    element: <Charts />,
-  },
 ];
 
 export const routes: Routes = [
@@ -234,9 +228,6 @@ export const routeCategories: RouteCategories = [
       },
       {
         paths: ["overlay"],
-      },
-      {
-        paths: ["charts"],
       },
     ],
   },

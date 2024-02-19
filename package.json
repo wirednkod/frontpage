@@ -1,12 +1,8 @@
 {
   "name": "@polkadot-cloud/frontpage",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "license": "GPL-3.0-only",
-  "contributors": [
-    "Ross Bulat<ross@parity.io>",
-    "Nikolaos Kontakis<wirednkod@gmail.com>"
-  ],
-  "description": "A showcase app of the Polkadot Cloud library.",
+  "description": "Polkadot Cloud Landing Page.",
   "type": "module",
   "scripts": {
     "clear": "rm -rf node_modules",
@@ -43,7 +39,7 @@
     "@polkadot-cloud/utils": "^0.0.25",
     "@polkadot/keyring": "^12.6.2",
     "@polkadot/util": "^12.6.2",
-    "@types/react": "^18.2.55",
+    "@types/react": "^18.2.56",
     "bignumber.js": "^9.1.2",
     "eslint": "^8.56.0",
     "eslint-config-airbnb": "^19.0.4",
@@ -65,7 +61,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-powerglitch": "^1.0.3",
-    "react-router-dom": "^6.22.0",
+    "react-router-dom": "^6.22.1",
     "react-simple-code-editor": "^0.13.1",
     "stylelint": "^16.2.1",
     "svgo": "^3.2.0"
