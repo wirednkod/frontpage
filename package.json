@@ -1,12 +1,8 @@
 {
   "name": "@polkadot-cloud/frontpage",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "license": "GPL-3.0-only",
-  "contributors": [
-    "Ross Bulat<ross@parity.io>",
-    "Nikolaos Kontakis<wirednkod@gmail.com>"
-  ],
-  "description": "A showcase app of the Polkadot Cloud library.",
+  "description": "Polkadot Cloud Landing Page.",
   "type": "module",
   "scripts": {
     "clear": "rm -rf node_modules",
