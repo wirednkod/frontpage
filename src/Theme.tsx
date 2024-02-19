@@ -2,17 +2,17 @@
 // SPDX-License-Identifier: GPL-3.0-only
 
 import { Router } from "./Router";
-import { useTheme } from "./contexts/Theme";
 
 // App-wide theme classes are inserted here.
 //
 // App-specific theming is added to `ThemeProvider`.
 // `@polkadot-cloud/react` themes are added to `Entry`.
 export const Theme = () => {
-  const { mode } = useTheme();
+  // NOTE: theme not currently in use. Defaulting to light mode.
+  // const { mode } = useTheme();
 
   return (
-    <div className={`main theme-cloud cloud-theme-${mode}`}>
+    <div className={`main theme-cloud cloud-theme-${"light"}`}>
       <Router />
     </div>
   );
