@@ -1,11 +1,11 @@
 /* @license Copyright 2024 @polkadot-cloud/frontpage authors & contributors
 SPDX-License-Identifier: GPL-3.0-only */
 
-import { AnyJson, AnyObject } from "@polkadot-cloud/utils/types";
 import { ReactNode } from "react";
 import { ThemesProvider } from "./contexts/Theme";
 import { UIProvider } from "./contexts/UI";
 import { Theme } from "./Theme";
+import { AnyJson, AnyObject } from "@polkadot-cloud/react/types";
 
 /*
  * A hook that wraps multiple context providers to a component and makes each parent context accessible.
