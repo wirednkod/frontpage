@@ -2,8 +2,6 @@
 SPDX-License-Identifier: GPL-3.0-only */
 
 import { useTheme } from "../../../contexts/Theme";
-// Import the base cloud-core styles to ensure the theme styles are applied instead of doc styles.
-import "@polkadot-cloud/core/css/styles/index.css";
 import { valEmpty } from "@polkadot-cloud/react/utils";
 // Import each supported theme here.
 import "@polkadot-cloud/core/accent/polkadot-relay.css";

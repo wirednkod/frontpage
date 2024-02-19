@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: GPL-3.0-only
 
 import { AnyFunction } from "@polkadot-cloud/react/utils/types";
-import { AnyObject } from "@polkadot-cloud/utils/types";
+import { AnyObject } from "@polkadot-cloud/react/types";
 import { useEffect } from "react";
 
 /*
