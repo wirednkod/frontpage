@@ -1,5 +1,5 @@
-// Copyright 2024 @polkadot-cloud/frontpage authors & contributors
-// SPDX-License-Identifier: GPL-3.0-only
+/* @license Copyright 2024 @polkadot-cloud/frontpage authors & contributors
+SPDX-License-Identifier: GPL-3.0-only */
 
 import { AnyFunction } from "@polkadot-cloud/react/utils/types";
 import { AnyObject } from "@polkadot-cloud/react/types";
