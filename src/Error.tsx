@@ -1,3 +1,6 @@
+/* @license Copyright 2024 @polkadot-cloud/frontpage authors & contributors
+SPDX-License-Identifier: GPL-3.0-only */
+
 import { useGlitch } from "react-powerglitch";
 import "./styles/app.scss";
 import IconSVG from "./svg/icon.svg?react";
